@@ -1,0 +1,16 @@
+https://unity.com/features/2danimation
+
+Documentation:
+https://docs.unity3d.com/Packages/com.unity.2d.animation@7.0/manual/index.html
+
+My LinkedIn:
+https://www.linkedin.com/in/mohamed-ashraf-el-sayed/
+
+Itch.IO:
+https://itch.io/
+
+Challenge:
+- Import a set of sprite images for a simple character.
+  - states: attack / walk / run / jump .
+- Add SFX to each state.
+- Write a script to play the animation and audio when specific keys are pressed.
